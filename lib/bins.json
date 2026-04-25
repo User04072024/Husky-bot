@@ -1,0 +1,30 @@
+{
+  "371234": {
+    "country": "USA",
+    "usage": "AMEX GREEN"
+  },
+  "409977": {
+    "country": "España",
+    "usage": "VISA SANTANDER"
+  },
+  "414720": {
+    "country": "México",
+    "usage": "VISA BBVA"
+  },
+  "421398": {
+    "country": "Colombia",
+    "usage": "VISA BANCOLOMBIA"
+  },
+  "457458": {
+    "country": "USA",
+    "usage": "VISA CLASSIC"
+  },
+  "510001": {
+    "country": "USA",
+    "usage": "MASTERCARD WORLD"
+  },
+  "540622": {
+    "country": "Argentina",
+    "usage": "MASTERCARD STANDARD"
+  }
+}

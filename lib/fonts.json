@@ -1,0 +1,902 @@
+{
+  "1": {
+    "n": "Times New Roman Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝐚𝐛𝐜𝐝𝐞𝐟𝐠𝐡𝐢𝐣𝐤𝐥𝐦𝐧𝐨𝐩𝐪𝐫𝐬𝐭𝐮𝐯𝐰𝐱𝐲𝐳𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗"
+  },
+  "2": {
+    "n": "Sans-Serif Regular",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝖺𝖻𝖼𝖽𝖾𝖿𝗀𝗁𝗂𝗃𝗄𝗅𝗆𝗇𝗈𝗉𝗊𝗋𝗌𝗍𝗎𝗏𝗐𝗑𝗒𝗓𝖠𝖡𝖢𝖣𝖤𝖥𝖦𝖧𝖨𝖩𝖪𝖫𝖬𝖭𝖮𝖯𝖰𝖱𝖲𝖳𝖴𝖵𝖶𝖷𝖸𝖹𝟢𝟣𝟤𝟥𝟦𝟧𝟨𝟩𝟪𝟫"
+  },
+  "3": {
+    "n": "Courier New Monospace",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝚊𝚋𝚌𝚍𝚎𝚏𝚐𝚑𝚒𝚓𝚔𝚕𝚖𝚗𝚘𝚙𝚚𝚛𝚜𝚝𝚞𝚟𝚠𝚡𝚢𝚣𝙰𝙱𝙲𝙳𝙴𝙵𝙶𝙷𝙸𝙹𝙺𝙻𝙼𝙽𝙾𝙿𝚀𝚁𝚂𝚃𝚄𝚅𝚆𝚇𝚈𝚉𝟶𝟷𝟸𝟹𝟺𝟻𝟼𝟽𝟾𝟿"
+  },
+  "4": {
+    "n": "Script Elegante Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝓪𝓫𝓬𝓭𝓮𝓯𝓰𝓱𝓲𝓳𝓴𝓵𝓶𝓷𝓸𝓹𝓺𝓻𝓼𝓽𝓾𝓿𝔀𝔁𝔂𝔃𝓐𝓑𝓒𝓓𝓔𝓕𝓖𝓗𝓘𝓙𝓚𝓛𝓜𝓝𝓞𝓟𝓠𝓡𝓢𝓣𝓤𝓥𝓦𝓧𝓨𝓩𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡"
+  },
+  "5": {
+    "n": "Script Cursivo",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝒶𝒷𝒸𝒹ℯ𝒻ℊ𝒽𝒾𝒿𝓀𝓁𝓂𝓃ℴ𝓅𝓆𝓇𝓈𝓉𝓊𝓋𝓌𝓍𝓎𝓏𝒜ℬ𝒞𝒟ℰℱ𝒢ℋℐ𝒥𝒦ℒℳ𝒩𝒪𝒫𝒬ℛ𝒮𝒯𝒰𝒱𝒲𝒳𝒴𝒵𝟢𝟣𝟤𝟥𝟦𝟧𝟨𝟩𝟪𝟫"
+  },
+  "6": {
+    "n": "Bold Italic Sans-Serif",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝙖𝙗𝙘𝙙𝙚𝙛𝙜𝙝𝙞𝙟𝙠𝙡𝙢𝙣𝙤𝙥𝙦𝙧𝙨𝙩𝙪𝙫𝙬𝙭𝙮𝙯𝘼𝘽𝘾𝘿𝙀𝙁𝙂𝙃𝙄𝙅𝙆𝙇𝙈𝙉𝙊𝙋𝙌𝙍𝙎𝙏𝙐𝙑𝙒𝙓𝙔𝙕𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗"
+  },
+  "7": {
+    "n": "Gótico Medieval Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝖆𝖇𝖈𝖉𝖊𝖋𝖌𝖍𝖎𝖏𝖐𝖑𝖒𝖓𝖔𝖕𝖖𝖗𝖘𝖙𝖚𝖛𝖜𝖝𝖞𝖟𝕬𝕭𝕮𝕯𝕰𝕱𝕲𝕳𝕴𝕵𝕶𝕷𝕸𝕹𝕺𝕻𝕼𝕽𝕾𝕿𝖀𝖁𝖂𝖃𝖄𝖅𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗"
+  },
+  "8": {
+    "n": "Doble Línea (Double-Struck)",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝕒𝕓𝕔𝕕𝕖𝕗𝕘𝕙𝕚𝕛𝕜𝕝𝕞𝕟𝕠𝕡𝕢𝕣𝕤𝕥𝕦𝕧𝕨𝕩𝕪𝕫𝔸𝔹ℂ𝔻𝔼𝔽𝔾ℍ𝕀𝕁𝕂𝕃𝕄ℕ𝕆ℙℚℝ𝕊𝕋𝕌𝕍𝕎𝕏𝕐ℤ𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡"
+  },
+  "9": {
+    "n": "Burbuja Negra",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩🅐🅑🅒🅓🅔🅕🅖🅗🅘🅙🅚🅛🅜🅝🅞🅟🅠🅡🅢🅣🅤🅥🅦🅧🅨🅩⓿❶❷❸❹❺❻❼❽❾"
+  },
+  "10": {
+    "n": "Burbuja Blanca",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "ⓐⓑⓒⓓⓔⓕⓖⓗⓘⓙⓚⓛⓜⓝⓞⓟⓠⓡⓢⓣⓤⓥⓦⓧⓨⓩⒶⒷⒸⒹⒺⒻⒼⒽⒾⒿⓀⓁⓂⓃⓄⓅⓆⓇⓈⓉⓊⓋⓌⓍⓎⓏ⓪①②③④⑤⑥⑦⑧⑨"
+  },
+  "11": {
+    "n": "Cuadrado Negro",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉🅰🅱🅲🅳🅴🅵🅶🅷🅸🅹🅺🅻🅼🅽🅾🅿🆀🆁🆂🆃🆄🆅🆆🆇🆈🆉0123456789"
+  },
+  "12": {
+    "n": "Cyberpunk Pro",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "卂乃匚ᗪ乇千Ꮆ卄丨ﾌҜㄥ爪几ㄖ卩Ɋ尺丂ㄒㄩᐯ山乂ㄚ乙卂乃匚ᗪ乇千Ꮆ卄丨ﾌҜㄥ爪几ㄖ卩Ɋ尺丂ㄒㄩᐯ山乂ㄚ乙0123456789"
+  },
+  "13": {
+    "n": "Small Caps Gaming",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢᴀʙᴄᴅᴇғɢʜɪᴊᴋʟᴍɴᴏᴘǫʀsᴛᴜᴠᴡxʏᴢ"
+  },
+  "14": {
+    "n": "Nick Japonés Pro",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ｱ乃cd乇ｷgんﾉﾌズﾚﾼ刀oｱゐ尺丂ｲu√wﾒﾘ乙ｱ乃cd乇ｷgんﾉﾌズﾚﾼ刀oｱゐ尺丂ｲu√wﾒﾘ乙"
+  },
+  "15": {
+    "n": "Military Tag",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ΛBCDΣFGHIKLMNΘPQRSTUVWXYZΛBCDΣFGHIKLMNΘPQRSTUVWXYZ"
+  },
+  "16": {
+    "n": "Símbolos Griegos",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "αв¢∂єƒgнιנкℓмησρqяѕтυνωхуzΑΒ¢∂ΕƑGΗΙנΚℒΜΗΣΡQЯЅΤΥΝΩХΥZ"
+  },
+  "17": {
+    "n": "Tiny Mini Superíndice",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᵃᵇᶜᵈᵉᶠᵍʰⁱʲᵏˡᵐⁿᵒᵖᵠʳˢᵗᵘᵛʷˣʸᶻᴬᴮᶜᴰᴱᶠᴳᴴᴵᴶᴷᴸᴹᴺᴼᴾᵠᴿˢᵀᵁⱽᵂˣʸᶻ"
+  },
+  "18": {
+    "n": "Celta Gamer",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ค๒ς๔єŦﻮђเןкɭ๓ภ๏קợгรՇยงฬאץչค๒ς๔єŦﻮђเןкɭ๓ภ๏קợгรՇยงฬאץչ"
+  },
+  "19": {
+    "n": "Espejo / Flip",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "ɐqɔpǝɟƃɥᴉɾʞlɯuodbɹsʇnʌʍxʎz∀𐐒ƆᗡƎℲ⅁HIſʞ˥WNOԀΌᴚS┴∩ΛMX⅄Z0ƖᄅƐㄣϛ9ㄥ86"
+  },
+  "20": {
+    "n": "Gótico Light (Fraktur)",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝔞𝔟𝔠𝔡𝔢𝔣𝔤𝔥𝔦𝔧𝔨𝔩𝔪𝔫𝔬𝔭𝔮𝔯𝔰𝔱𝔲𝔳𝔴𝔵𝔶𝔷𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡"
+  },
+  "21": {
+    "n": "Modern Sans Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝗮𝗯𝗰𝗱𝗲𝗳𝗴𝗵𝗶𝗷𝗸𝗹𝗺𝗻𝗼𝗽𝗾𝗿𝘀𝘁𝘂𝘃𝘄𝘅𝘆𝘇𝗔𝗕𝗖𝗗𝗘𝗙𝗚𝗛𝗜𝗝𝗞𝗟𝗠𝗡𝗢𝗣𝗤𝗥𝗦𝗧𝗨𝗩𝗪𝗫𝗬𝗭𝟬𝟭𝟮𝟯𝟰𝟱𝟲𝟳𝟴𝟵"
+  },
+  "22": {
+    "n": "Bold Italic Serif",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "𝒂𝒃𝒄𝒅𝒆𝒇𝒈𝒉𝒊𝒋𝒌𝒍𝒎𝒏𝒐𝒑𝒒𝒓𝒔𝒕𝒖𝒗𝒘𝒙𝒚𝒛𝑨𝑩𝑪𝑫𝑬𝑭𝑮𝑯𝑰𝑱𝑲𝑳𝑴𝑵𝑶𝑷𝑸𝑹𝑺𝑻𝑼𝑽𝑾𝑿𝒀𝒁𝟎𝟏𝟐𝟑𝟒𝟓𝟔𝟕𝟖𝟗"
+  },
+  "23": {
+    "n": "Italic Serif",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𝑎𝑏𝑐𝑑𝑒𝑓𝑔ℎ𝑖𝑗𝑘𝑙𝑚𝑛𝑜𝑝𝑞𝑟𝑠𝑡𝑢𝑣𝑤𝑥𝑦𝑧𝐴𝐵𝐶𝐷𝐸𝐹𝐺𝐻𝐼𝐽𝐾𝐿𝑀𝑁𝑂𝑃𝑄𝑅𝑆𝑇𝑈𝑉𝑊𝑋𝑌𝑍"
+  },
+  "24": {
+    "n": "Italic Sans-Serif",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𝘢𝘣𝘤𝘥𝘦𝘧𝘨𝘩𝘪𝘫𝘬𝘭𝘮𝘯𝘰𝘱𝘲𝘳𝘴𝘵𝘶𝘷𝘸𝘹𝘺𝘻𝘈𝘉𝘊𝘋𝘌𝘍𝘎𝘏𝘐𝘑𝘒𝘓𝘔𝘕𝘖𝘗𝘘𝘙𝘚𝘛𝘜𝘝𝘞𝘟𝘠𝘡"
+  },
+  "25": {
+    "n": "Fullwidth Vaporwave",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "ａｂｃｄｅｆｇｈｉｊｋｌｍｎｏｐｑｒｓｔｕｖｗｘｙｚＡＢＣＤＥＦＧＨＩＪＫＬＭＮＯＰＱＲＳＴＵＶＷＸＹＺ０１２３４５６７８９"
+  },
+  "26": {
+    "n": "Subíndice Nick",
+    "c": "abcdefghijklmnopqrstuvwxyz0123456789",
+    "m": "ₐᵦ𝒸𝒹ₑ𝒻𝓰ₕᵢⱼₖₗₘₙₒₚᵩᵣₛₜᵤᵥ𝓌ₓᵧ𝓏₀₁₂₃₄₅₆₇₈₉"
+  },
+  "27": {
+    "n": "Alien Tech",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ልጌርዕቿቻፏዘጎጋጕረጠክዐየዒዪነፕሀህሠሸሃጊልጌርዕቿቻፏዘጎጋጕረጠክዐየዒዪነፕሀህሠሸሃጊ"
+  },
+  "28": {
+    "n": "Mágico Fantasy",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789",
+    "m": "αႦƈԃҽϝɠԧιʝƙʅɱɳσρϙɾʂƚυʋωxყȥABCDEFGHIJKLMNOPQRSTUVWXYZ𝟘𝟙𝟚𝟛𝟜𝟝𝟞𝟟𝟠𝟡"
+  },
+  "29": {
+    "n": "Hacker Leet",
+    "c": "abcdefghijklmnopqrstuvwxyz0123456789",
+    "m": "4bcd3fgh1jklmn0pqr57uvwxy20123456789"
+  },
+  "30": {
+    "n": "Glitch Static",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "aвcdєғɢнιjĸlмɴopqrѕтυvwхyzABᴄDEғGнIJKʟMNᴏPQʀSтUVWxYz"
+  },
+  "31": {
+    "n": "Paréntesis",
+    "c": "abcdefghijklmnopqrstuvwxyz",
+    "m": "⒜⒝⒞⒟⒠⒡⒢⒣⒤⒥⒦⒧⒨⒩⒪⒫⒬⒭⒮⒯⒰⒱⒲⒳⒴⒵"
+  },
+  "32": {
+    "n": "Regional Flags",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "🇦🇧🇨🇩🇪🇫🇬🇭🇮🇯🇰🇱🇲🇳🇴🇵🇶🇷🇸🇹🇺🇻🇼🇽🇾🇿🇦🇧🇨🇩🇪🇫🇬🇭🇮🇯🇰🇱🇲🇳🇴🇵🇶🇷🇸🇹🇺🇻🇼🇽🇾🇿"
+  },
+  "33": {
+    "n": "Cuadrado Blanco",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "🄰🄱🄲🄳🄴🄵🄶🄷🄸🄹🄺🄻🄼🄽🄾🄿🅀🅁🅂🅃🅄🅅🅆🅇🅈🅉🄰🄱🄲🄳🄴🄵🄶🄷🄸🄹🄺🄻🄼🄽🄾🄿🅀🅁🅂🅃🅄🅅🅆🅇🅈🅉"
+  },
+  "34": {
+    "n": "Greek Nick",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "αвçðê£ghïjklmñðþqr§†µvwx¥zÄßÇÐÊFGHÌJKLMNÖPQR§†ÜVWXÝZ"
+  },
+  "35": {
+    "n": "Serif Block Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙𝐀𝐁𝐂𝐃𝐄𝐅𝐆𝐇𝐈𝐉𝐊𝐋𝐌𝐍𝐎𝐏𝐐𝐑𝐒𝐓𝐔𝐕𝐖𝐗𝐘𝐙"
+  },
+  "36": {
+    "n": "Curva Estilizada",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "αвƈ∂єƒgнιנкℓмησρqяѕтυνωхуzΑВƈ∂ΕƑGΗΙנΚℒΜΗΣΡQЯЅΤΥΝΩΧΥZ"
+  },
+  "37": {
+    "n": "Símbolos Bold",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "αв¢∂єƒgнιנкℓмησρqяѕтυνωкуzΑВ¢∂ΕƑGΗΙנΚℒΜΗΣΡQЯЅΤΥΝΩКУZ"
+  },
+  "38": {
+    "n": "Aesthetic Sans",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "αв¢∂єƒgнιנкℓмησρqяѕтυνωкуzค乃匚刀モ下ム卄工ＪＫㄥ爪れロㄗＱ尺ＳＴＵＶＷＸＹＺ"
+  },
+  "39": {
+    "n": "Invertido Pro",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "zʎxʍʌnʇsɹbdouɯlʞɾıɥƃɟǝpɔqɐZ⅄XMΛ∩┴SᴚΌԀONW˥ʞſIH⅁ℲƎᗡƆ𐐒∀"
+  },
+  "40": {
+    "n": "Medieval Sharp",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𝔞𝔟𝔠𝔡𝔢𝔣𝔤𝔥𝔦𝔧𝔨𝔩𝔪𝔫𝔬𝔭𝔮𝔯𝔰𝔱𝔲𝔳𝔴𝔵𝔶𝔷𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ"
+  },
+  "41": {
+    "n": "Runic Elder Futhark",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᚨᛒᚲᛞᛖᚠᚷᚺᛁᛃᚲᛚᛗᚾᛟᛈᚲᚱᛊᛏᚢᚡᚹᚲᚤᛉᚨᛒᚲᛞᛖᚠᚷᚺᛁᛃᚲᛚᛗᚾᛟᛈᚲᚱᛊᛏᚢᚡᚹᚲᚤᛉ"
+  },
+  "42": {
+    "n": "Coptic Ancient",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ⲁⲃⲅⲇⲉⲋⲍⲏⲑⲓⲕⲗⲙⲛⲝⲟⲡⲣⲥⲧⲩⲫⲭⲯⲱⲳⲀⲂⲄⲆⲈⲊⲌⲎⲐⲒⲔⲖⲘⲚⲜⲞⲠⲢⲤⲦⲨⲪⲬⲮⲰⲲ"
+  },
+  "43": {
+    "n": "Glagolitic",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ⰰⰱⰲⰳⰴⰵⰶⰷⰸⰹⰺⰻⰼⰽⰾⰿⱀⱁⱂⱃⱄⱅⱆⱇⱈⱉⰀⰁⰂⰃⰄⰅⰆⰇⰈⰉⰊⰋⰌⰍⰎⰏⰐⰑⰒⰓⰔⰕⰖⰗⰘⰙ"
+  },
+  "44": {
+    "n": "Cherokee Nation",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᎪᏢᏟᎴᎬᎦᎱᎻᏉᏗᏦᏞᎻᏁᎣᏢᏊᏒᏕᏔᎤᏉᏇᎩᎺᏃᎪᏢᏟᎴᎬᎦᎱᎻᏉᏗᏦᏞᎻᏁᎣᏢᏊᏒᏕᏔᎤᏉᏇᎩᎺᏃ"
+  },
+  "45": {
+    "n": "Deseret Alphabet",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𐐨𐐩𐐪𐐫𐐬𐐭𐐮𐐯𐐰𐐱𐐲𐐳𐐴𐐵𐐶𐐷𐐸𐐹𐐺𐐻𐐼𐐽𐐾𐐿𐑀𐑁𐐀𐐁𐐂𐐃𐐄𐐅𐐆𐐇𐐈𐐉𐐊𐐋𐐌𐐍𐐎𐐏𐐐𐐑𐐒𐐓𐐔𐐕𐐖𐐗𐐘𐐙"
+  },
+  "46": {
+    "n": "Lisu Script",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩꓐꓑꓒꓓꓔꓕꓖꓗꓘꓙꓚꓛꓜꓝꓞꓟꓠꓡꓢꓣꓤꓥꓦꓧꓨꓩ"
+  },
+  "47": {
+    "n": "Syriac Estrangela",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ܐܒܓܕܗܘܙܚܛܝܟܠܡܢܣܥܦܨܩܪܫܬܐܒܓܕܗܘܙܚܛܝܟܠܡܢܣܥܦܨܩܪܫܬܐܒܓܕܗܘ"
+  },
+  "48": {
+    "n": "Mongolian Script",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᠠᠪᠴᠳᠡᠹᠭᠾᠢᠵᠺᠯᠮᠨᠥᠫᠺᠷᠰᠲᠦᠸᠸᠸᠶᠵᠠᠪᠴᠳᠡᠹᠭᠾᠢᠵᠺᠯᠮᠨᠥᠫᠺᠷᠰᠲᠦᠸᠸᠸᠶᠵ"
+  },
+  "49": {
+    "n": "Tifinagh Bereber",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ⴰⴱⵛⴷⴻⴼⴳⵀⵉⵊⴽⵍⵎⵏⵓⵒⵇⵔⵙⵜⵓⵡⵡⵅⵢⵣⴰⴱⵛⴷⴻⴼⴳⵀⵉⵊⴽⵍⵎⵏⵓⵒⵇⵔⵙⵜⵓⵡⵡⵅⵢⵣ"
+  },
+  "50": {
+    "n": "Old Turkic",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𐰀𐰉𐰲𐰑𐰅𐰯𐰏𐰸𐰃𐰘𐰚𐰞𐰢𐰤𐰆𐰯𐰴𐰺𐰽𐱃𐰈𐰼𐰽𐰯𐰶𐰔𐰀𐰉𐰲𐰑𐰅𐰯𐰏𐰸𐰃𐰘𐰚𐰞𐰢𐰤𐰆𐰯𐰴𐰺𐰽𐱃𐰈𐰼𐰽𐰯𐰶𐰔"
+  },
+  "51": {
+    "n": "Vai Script",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ꔀꔠꔒꔃꔉꔕꔤꔌꖨꕢꔐꕝꔢꔒꖿꔵꕎꔱꕌꕒꖾꔮꔘꕬꕮꔦꔀꔠꔒꔃꔉꔕꔤꔌꖨꕢꔐꕝꔢꔒꖿꔵꕎꔱꕌꕒꖾꔮꔘꕬꕮꔦ"
+  },
+  "52": {
+    "n": "Ogham Ancient",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚁᚂᚃᚄᚅᚆᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚁᚂᚃᚄᚅᚆᚇᚈᚉᚊᚁᚂᚃᚄᚅᚆ"
+  },
+  "53": {
+    "n": "Lydian",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "𐤠𐤡𐤢𐤣𐤤𐤥𐤦𐤧𐤨𐤩𐤪𐤫𐤬𐤭𐤮𐤯𐤰𐤱𐤲𐤳𐤴𐤵𐤶𐤷𐤸𐤹𐤠𐤡𐤢𐤣𐤤𐤥𐤦𐤧𐤨𐤩𐤪𐤫𐤬𐤭𐤮𐤯𐤰𐤱𐤲𐤳𐤴𐤵𐤶𐤷𐤸𐤹"
+  },
+  "54": {
+    "n": "Buginese",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᨕᨅᨌᨉᨙᨄᨁᨇᨗᨋᨀᨒᨆᨊᨔᨘᨎᨑᨔᨂᨘᨅᨌᨑᨓᨃᨕᨅᨌᨉᨙᨄᨁᨇᨗᨋᨀᨒᨆᨊᨔᨘᨎᨑᨔᨂᨘᨅᨌᨑᨓᨃ"
+  },
+  "55": {
+    "n": "Balinese Mix",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ᬅᬩᬘᬤᬏᬧᬕᬳᬇᬚᬓᬮᬫᬦᬑᬧᬓᬭᬲᬢᬉᬯᬯᬧᬬᬚᬅᬩᬘᬤᬏᬧᬕᬳᬇᬚᬓᬮᬫᬦᬑᬧᬓᬭᬲᬢᬉᬯᬯᬧᬬᬚ"
+  },
+  "56": {
+    "n": "Phags-Pa",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ꡀꡁꡂꡃꡄꡅꡆꡇꡈꡉꡀꡁꡂꡃꡄꡅꡆꡇꡈꡉꡀꡁꡂꡃꡄꡅꡀꡁꡂꡃꡄꡅꡆꡇꡈꡉꡀꡁꡂꡃꡄꡅꡆꡇꡈꡉꡀꡁꡂꡃꡄꡅ"
+  },
+  "57": {
+    "n": "Yi Syllables",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ꀀꀤꀧꁁꀰꀦꀴꁌꀂꁋꀏꀹꀮꀵꀂꁆꀹꀢꀧꀣꀦꀢꀰꁃꀤꀩꀀꀤꀧꁁꀰꀦꀴꁌꀂꁋꀏꀹꀮꀵꀂꁆꀹꀢꀧꀣꀦꀢꀰꁃꀤꀩ"
+  },
+  "58": {
+    "n": "Ethiopic Ge'ez",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ሀሁሂሃሄህሆለሉሊላሌልሎሐሑሒሓሔሕሖመሙሚማሜምሞሀሁሂሃሄህሆለሉሊላሌልሎሐሑሒሓሔሕሖመሙሚማሜምሞ"
+  },
+  "59": {
+    "n": "Hangul Style",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ㅏㅂㅊㄷㅓㄹㄱㅎㅣㅈㄱㄹㅁㄴㅗㅍㅋㄹㅅㅌㅜㅂㅊㄱㅛㅈㅏㅂㅊㄷㅓㄹㄱㅎㅣㅈㄱㄹㅁㄴㅗㅍㅋㄹㅅㅌㅜㅂㅊㄱㅛㅈ"
+  },
+  "60": {
+    "n": "Klingon-Like",
+    "c": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "m": "ꛏꛕꛇꛓꛖꛄꛥꛂꛩꛛꛏꛖꛔꛊꛎꛘꛌꛢꛦꛪꛠꛬꛮꛧ꛰꛱ꛏꛕꛇꛓꛖꛄꛥꛂꛩꛛꛏꛖꛔꛊꛎꛘꛌꛢꛦꛪꛠꛬꛮꛧ꛰꛱"
+  },
+  "61": {
+    "n": "E-Sport Tag",
+    "deco": ["々", "★彡"],
+    "f": "1"
+  },
+  "62": {
+    "n": "Vandal Frame",
+    "deco": ["『", "』"],
+    "f": "7"
+  },
+  "63": {
+    "n": "Slayer Cross",
+    "deco": ["×", "×"],
+    "f": "1"
+  },
+  "64": {
+    "n": "Katana Soul",
+    "deco": ["╰—┈➤ ", " ⚔️"],
+    "f": "4"
+  },
+  "65": {
+    "n": "Gamer ID",
+    "deco": ["🆔 ", " ⚡"],
+    "f": "3"
+  },
+  "66": {
+    "n": "Dark Knight",
+    "deco": ["♞ ", " ♞"],
+    "f": "7"
+  },
+  "67": {
+    "n": "Infinity Edge",
+    "deco": ["∞ ", " ∞"],
+    "f": "1"
+  },
+  "68": {
+    "n": "Alpha Leader",
+    "deco": ["(̲̅A̲̅) ", ""],
+    "f": "2"
+  },
+  "69": {
+    "n": "Cyber Ghost",
+    "deco": ["░▒▓█ ", " █▓▒░"],
+    "f": "12"
+  },
+  "70": {
+    "n": "Headshot Pro",
+    "deco": ["🎯 ", " 🎯"],
+    "f": "1"
+  },
+  "71": {
+    "n": "Master Tier",
+    "deco": ["💎 [", "] 💎"],
+    "f": "5"
+  },
+  "72": {
+    "n": "Dragon Breath",
+    "deco": ["🐉 ", " 🐉"],
+    "f": "1"
+  },
+  "73": {
+    "n": "System Warning",
+    "deco": ["⚠ ", " ⚠"],
+    "f": "3"
+  },
+  "74": {
+    "n": "Pro Level",
+    "deco": ["ʟᴠ.99 〉", ""],
+    "f": "14"
+  },
+  "75": {
+    "n": "Ghost Squad",
+    "deco": ["ᴳнσѕт ", ""],
+    "f": "1"
+  },
+  "76": {
+    "n": "One Tap Sniper",
+    "deco": ["︻デ═一 ", ""],
+    "f": "1"
+  },
+  "77": {
+    "n": "Golden Rank",
+    "deco": ["✨ ", " ✨"],
+    "f": "4"
+  },
+  "78": {
+    "n": "Toxic Zone",
+    "deco": ["☣️ ", " ☣️"],
+    "f": "1"
+  },
+  "79": {
+    "n": "King Tag",
+    "deco": ["👑 ", " 👑"],
+    "f": "1"
+  },
+  "80": {
+    "n": "Global Elite",
+    "deco": ["🌎 ", " 🌎"],
+    "f": "2"
+  },
+  "81": {
+    "n": "Diamond Guard",
+    "deco": ["🔹", "🔹"],
+    "f": "11"
+  },
+  "82": {
+    "n": "Shinobi",
+    "deco": ["🥷 ", ""],
+    "f": "18"
+  },
+  "83": {
+    "n": "Heartbeat",
+    "deco": ["ﮩ٨ـﮩ ", " ﮩ٨ـ"],
+    "f": "1"
+  },
+  "84": {
+    "n": "Skull Lord",
+    "deco": ["☠️ ", " ☠️"],
+    "f": "7"
+  },
+  "85": {
+    "n": "Thunder",
+    "deco": ["⚡", "⚡"],
+    "f": "6"
+  },
+  "86": {
+    "n": "Sakura",
+    "deco": ["🌸 ", " 🌸"],
+    "f": "4"
+  },
+  "87": {
+    "n": "Galaxy",
+    "deco": ["🌌 ", " 🌌"],
+    "f": "1"
+  },
+  "88": {
+    "n": "Neon Frame",
+    "deco": ["「 ", " 」"],
+    "f": "23"
+  },
+  "89": {
+    "n": "Shadow Reaper",
+    "deco": ["╔══╗ ", " ╔══╗"],
+    "f": "20"
+  },
+  "90": {
+    "n": "Void Gate",
+    "deco": ["【", "】"],
+    "f": "8"
+  },
+  "91": {
+    "n": "Blood Warrior",
+    "deco": ["✞ ", " ✞"],
+    "f": "7"
+  },
+  "92": {
+    "n": "Stealth Ops",
+    "deco": ["» ", " «"],
+    "f": "21"
+  },
+  "93": {
+    "n": "Pixel Barras",
+    "deco": ["▓▒░ ", " ░▒▓"],
+    "f": "12"
+  },
+  "94": {
+    "n": "Crown Fire",
+    "deco": ["👑🔥 ", " 🔥👑"],
+    "f": "1"
+  },
+  "95": {
+    "n": "Angel Wings",
+    "deco": ["✧ ", " ✧"],
+    "f": "4"
+  },
+  "96": {
+    "n": "Dark Samurai",
+    "deco": ["⛩️ ", " ⛩️"],
+    "f": "7"
+  },
+  "97": {
+    "n": "Matrix Rain",
+    "deco": ["⌁⌁ ", " ⌁⌁"],
+    "f": "12"
+  },
+  "98": {
+    "n": "Demon Lord",
+    "deco": ["👹 ", " 👹"],
+    "f": "7"
+  },
+  "99": {
+    "n": "Ice Cold",
+    "deco": ["❄️ ", " ❄️"],
+    "f": "24"
+  },
+  "100": {
+    "n": "Fire Nation",
+    "deco": ["🔥 ", " 🔥"],
+    "f": "6"
+  },
+  "101": {
+    "n": "Space Cowboy",
+    "deco": ["🚀 ", " 🌠"],
+    "f": "25"
+  },
+  "102": {
+    "n": "Vintage Frame",
+    "deco": ["〖 ", " 〗"],
+    "f": "5"
+  },
+  "103": {
+    "n": "Hacker Terminal",
+    "deco": ["[ROOT@", "]#"],
+    "f": "3"
+  },
+  "104": {
+    "n": "Mystic Eye",
+    "deco": ["👁️ ", " 👁️"],
+    "f": "20"
+  },
+  "105": {
+    "n": "Venom",
+    "deco": ["☠ ", " ☠"],
+    "f": "12"
+  },
+  "106": {
+    "n": "Star Bracket",
+    "deco": ["★[ ", " ]★"],
+    "f": "1"
+  },
+  "107": {
+    "n": "Royal Crest",
+    "deco": ["⚜️ ", " ⚜️"],
+    "f": "4"
+  },
+  "108": {
+    "n": "Snake Eyes",
+    "deco": ["🐍 ", " 🐍"],
+    "f": "18"
+  },
+  "109": {
+    "n": "Phantom",
+    "deco": ["👻 ", " 👻"],
+    "f": "13"
+  },
+  "110": {
+    "n": "Chaos",
+    "deco": ["⛧ ", " ⛧"],
+    "f": "7"
+  },
+  "111": {
+    "n": "Blade Runner",
+    "deco": ["⟦ ", " ⟧"],
+    "f": "6"
+  },
+  "112": {
+    "n": "Katakana Border",
+    "deco": ["ーー「", "」ーー"],
+    "f": "14"
+  },
+  "113": {
+    "n": "Wolf Pack",
+    "deco": ["🐺 ", " 🐺"],
+    "f": "1"
+  },
+  "114": {
+    "n": "Zero Two",
+    "deco": ["02 ", " 02"],
+    "f": "22"
+  },
+  "115": {
+    "n": "Sniper Scope",
+    "deco": ["〔 ", " 〕"],
+    "f": "3"
+  },
+  "116": {
+    "n": "Eternal Flame",
+    "deco": ["꧁", "꧂"],
+    "f": "4"
+  },
+  "117": {
+    "n": "Shadow Brackets",
+    "deco": ["⦃ ", " ⦄"],
+    "f": "20"
+  },
+  "118": {
+    "n": "Neon Brackets",
+    "deco": ["⌈ ", " ⌉"],
+    "f": "21"
+  },
+  "119": {
+    "n": "Rune Border",
+    "deco": ["᚛ ", " ᚜"],
+    "f": "41"
+  },
+  "120": {
+    "n": "Cyber Slash",
+    "deco": ["//", "//"],
+    "f": "12"
+  },
+  "121": {
+    "n": "Omega",
+    "deco": ["Ω ", " Ω"],
+    "f": "1"
+  },
+  "122": {
+    "n": "Battle Axe",
+    "deco": ["⚒ ", " ⚒"],
+    "f": "7"
+  },
+  "123": {
+    "n": "Cosmic",
+    "deco": ["🌙 ", " ⭐"],
+    "f": "4"
+  },
+  "124": {
+    "n": "Oni Mask",
+    "deco": ["👺 ", " 👺"],
+    "f": "14"
+  },
+  "125": {
+    "n": "Electric",
+    "deco": ["⚡〔", "〕⚡"],
+    "f": "6"
+  },
+  "126": {
+    "n": "Iron Fist",
+    "deco": ["✊ ", " ✊"],
+    "f": "21"
+  },
+  "127": {
+    "n": "Pentagram",
+    "deco": ["⛤ ", " ⛤"],
+    "f": "7"
+  },
+  "128": {
+    "n": "Kraken",
+    "deco": ["🦑 ", " 🦑"],
+    "f": "1"
+  },
+  "129": {
+    "n": "Blaze",
+    "deco": ["🔥꧁", "꧂🔥"],
+    "f": "4"
+  },
+  "130": {
+    "n": "Night Owl",
+    "deco": ["🦉 ", " 🌑"],
+    "f": "20"
+  },
+  "131": {
+    "n": "Apocalypse",
+    "deco": ["☢️ ", " ☢️"],
+    "f": "7"
+  },
+  "132": {
+    "n": "Crystal",
+    "deco": ["💠 ", " 💠"],
+    "f": "8"
+  },
+  "133": {
+    "n": "Lotus",
+    "deco": ["☸️ ", " ☸️"],
+    "f": "4"
+  },
+  "134": {
+    "n": "Laser",
+    "deco": ["━━━► ", " ◄━━━"],
+    "f": "21"
+  },
+  "135": {
+    "n": "Arcane",
+    "deco": ["⚗️ ", " ⚗️"],
+    "f": "20"
+  },
+  "136": {
+    "n": "Shogun",
+    "deco": ["⛩ 〘", "〙 ⛩"],
+    "f": "14"
+  },
+  "137": {
+    "n": "Eclipse",
+    "deco": ["🌑 ", " 🌕"],
+    "f": "7"
+  },
+  "138": {
+    "n": "Vortex",
+    "deco": ["🌀 ", " 🌀"],
+    "f": "12"
+  },
+  "139": {
+    "n": "Spectral",
+    "deco": ["〚 ", " 〛"],
+    "f": "8"
+  },
+  "140": {
+    "n": "Centurion",
+    "deco": ["⚔️ 〖", "〗 ⚔️"],
+    "f": "1"
+  },
+  "141": {
+    "n": "Medusa",
+    "deco": ["🐍꧁", "꧂🐍"],
+    "f": "18"
+  },
+  "142": {
+    "n": "Celestial",
+    "deco": ["✦ ", " ✦"],
+    "f": "4"
+  },
+  "143": {
+    "n": "Runic Shield",
+    "deco": ["ᛝ ", " ᛝ"],
+    "f": "41"
+  },
+  "144": {
+    "n": "Phantom Ops",
+    "deco": ["◈ ", " ◈"],
+    "f": "21"
+  },
+  "145": {
+    "n": "Storm",
+    "deco": ["⛈️ ", " ⛈️"],
+    "f": "6"
+  },
+  "146": {
+    "n": "Warlord",
+    "deco": ["🗡️ ", " 🗡️"],
+    "f": "7"
+  },
+  "147": {
+    "n": "Neo",
+    "deco": ["◤ ", " ◥"],
+    "f": "21"
+  },
+  "148": {
+    "n": "Hex Code",
+    "deco": ["0x[", "]FF"],
+    "f": "3"
+  },
+  "149": {
+    "n": "Shadow Wing",
+    "deco": ["🖤 ", " 🖤"],
+    "f": "7"
+  },
+  "150": {
+    "n": "Frost King",
+    "deco": ["❄👑 ", " 👑❄"],
+    "f": "24"
+  },
+  "151": {
+    "n": "Sigil",
+    "deco": ["⌬ ", " ⌬"],
+    "f": "8"
+  },
+  "152": {
+    "n": "Commander",
+    "deco": ["✪ ", " ✪"],
+    "f": "21"
+  },
+  "153": {
+    "n": "Anubis",
+    "deco": ["𓂀 ", " 𓂀"],
+    "f": "27"
+  },
+  "154": {
+    "n": "Rift",
+    "deco": ["〓 ", " 〓"],
+    "f": "6"
+  },
+  "155": {
+    "n": "Ancient Seal",
+    "deco": ["𓍝 ", " 𓍝"],
+    "f": "57"
+  },
+  "156": {
+    "n": "Quantum",
+    "deco": ["⟨ ", " ⟩"],
+    "f": "8"
+  },
+  "157": {
+    "n": "Bio Hazard",
+    "deco": ["☣ 『", "』 ☣"],
+    "f": "12"
+  },
+  "158": {
+    "n": "Titan",
+    "deco": ["⬡ ", " ⬡"],
+    "f": "21"
+  },
+  "159": {
+    "n": "Abyss",
+    "deco": ["▼ ", " ▼"],
+    "f": "7"
+  },
+  "160": {
+    "n": "Phoenix",
+    "deco": ["🔥🦅 ", " 🦅🔥"],
+    "f": "4"
+  },
+  "161": {
+    "n": "Cipher",
+    "deco": ["⌖ ", " ⌖"],
+    "f": "3"
+  },
+  "162": {
+    "n": "Leviathan",
+    "deco": ["🌊 ", " 🌊"],
+    "f": "1"
+  },
+  "163": {
+    "n": "Blackout",
+    "deco": ["██ ", " ██"],
+    "f": "12"
+  },
+  "164": {
+    "n": "Valkyrie",
+    "deco": ["⚡🛡 ", " 🛡⚡"],
+    "f": "6"
+  },
+  "165": {
+    "n": "Archdemon",
+    "deco": ["👿 ", " 👿"],
+    "f": "7"
+  },
+  "166": {
+    "n": "Moonrise",
+    "deco": ["🌙✨ ", " ✨🌙"],
+    "f": "4"
+  },
+  "167": {
+    "n": "Warzone",
+    "deco": ["💥 ", " 💥"],
+    "f": "21"
+  },
+  "168": {
+    "n": "Psi Force",
+    "deco": ["Ψ ", " Ψ"],
+    "f": "1"
+  },
+  "169": {
+    "n": "Void Walker",
+    "deco": ["⬛ ", " ⬛"],
+    "f": "8"
+  },
+  "170": {
+    "n": "Overclocked",
+    "deco": ["⚙️ [", "] ⚙️"],
+    "f": "3"
+  },
+  "171": {
+    "n": "Last Stand",
+    "deco": ["🏴 ", " 🏴"],
+    "f": "21"
+  },
+  "172": {
+    "n": "Infinity Loop",
+    "deco": ["⟲ ", " ⟳"],
+    "f": "1"
+  },
+  "173": {
+    "n": "Saber",
+    "deco": ["⚔ ╾", "╼ ⚔"],
+    "f": "6"
+  },
+  "174": {
+    "n": "Gravestone",
+    "deco": ["🪦 ", " 🪦"],
+    "f": "7"
+  },
+  "175": {
+    "n": "Ultraviolet",
+    "deco": ["◉ ", " ◉"],
+    "f": "8"
+  },
+  "176": {
+    "n": "Zero Hour",
+    "deco": ["⏱ 「", "」 ⏱"],
+    "f": "21"
+  },
+  "177": {
+    "n": "Predator",
+    "deco": ["🎃 ", " 🎃"],
+    "f": "12"
+  },
+  "178": {
+    "n": "Serpent",
+    "deco": ["〰️ ", " 〰️"],
+    "f": "18"
+  },
+  "179": {
+    "n": "Blazing Arrow",
+    "deco": ["🏹🔥 ", " 🔥🏹"],
+    "f": "1"
+  },
+  "180": {
+    "n": "Specter",
+    "deco": ["░░ ", " ░░"],
+    "f": "20"
+  }
+}
